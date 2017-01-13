@@ -5,7 +5,7 @@ This repo contais a material dark theme for Telegram Desktop.
 
 Here's for example how looks like:
 
-![Brando Material Dark](http://imgur.com/1asrcMn)
+![Brando Material Dark](http://i.imgur.com/1asrcMn.png)
 
 ## How to modify & install theme
 
