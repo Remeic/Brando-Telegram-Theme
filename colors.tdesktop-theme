@@ -1,3 +1,4 @@
+
 //////////////////////////////////////////////////////////////////////////////////////////////////
 //                                                                                              //
 //                    Brando Material Dark theme v1.1 for Telegram Desktop.                     //
@@ -203,7 +204,7 @@ dialogsBg: BACKGROUND_BASE;                          // Chats list background co
 dialogsNameFg: COLOR_WHITE;
 dialogsChatIconFg: dialogsNameFg;
 dialogsDateFg: COLOR_WHITE;                      // Chats list date text
-dialogsTextFg: COLOR_GREY_700;                      // Chats list message preview text
+dialogsTextFg: COLOR_GREY_400;                      // Chats list message preview text
 dialogsTextFgService: PRIMARY_COLOR;       // Chats list message preview sender name
 dialogsDraftFg: COLOR_DEBUG_2;                        // "Draft" word
 dialogsVerifiedIconBg: windowBgActive;
