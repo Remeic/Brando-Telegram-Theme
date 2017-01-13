@@ -1,10 +1,10 @@
-# Solid Dark Theme for Telegram Desktop
+# Brando Material Dark theme for Telgram
+### Thanks to MasterGroosha for sourcecode
 
-This repo contais some (or currently one :D) Solid Dark themes for Telegram Desktop.
+This repo contais a material dark theme for Telegram Desktop.
 
-Here's for example how Solid Dark Green looks like:
+Here's for example how looks like:
 
-![Solid Dark Green](https://pp.vk.me/c638426/v638426512/18005/X3QY1lgXg3o.jpg)
 
 ## How to modify & install theme
 
