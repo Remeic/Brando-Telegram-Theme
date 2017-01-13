@@ -5,6 +5,7 @@ This repo contais a material dark theme for Telegram Desktop.
 
 Here's for example how looks like:
 
+![Brando Material Dark](http://imgur.com/a/rbGol)
 
 ## How to modify & install theme
 
@@ -14,4 +15,4 @@ Here's for example how looks like:
 4) Send it to any chat in Telegram Desktop, then download, click and apply!  
 5) If you want to revert to default theme, click `Use default color theme` button in settings.  
 
-Don't forget to Subscribe to [@SolidDarkTheme](https://telegram.me/SolidDarkTheme) channel ;) More themes coming soon!
+### Joint to official telegram channel [Brando Material Theme](https://t.me/BrandoTheme)
